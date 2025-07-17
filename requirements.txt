@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+numpy
+pandas
+scikit-learn
+stable-baselines3
+shimmy>=2.0
+gym
+joblib
